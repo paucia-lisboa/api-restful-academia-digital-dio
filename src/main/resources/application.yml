@@ -4,8 +4,8 @@ server.port: 8081
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/academia?useTimezone=true&serverTimezone=UTC&useLegacyDate
-    username: postgres
-    password: 251014
+    username: <postgres>
+    password: <postgres>
   jpa:
     show-sql: true
     hibernate:
