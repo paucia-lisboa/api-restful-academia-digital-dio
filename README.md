@@ -2,7 +2,7 @@
 
 <h2>🚀 Sobre o Projeto</h2>
 
-<p> Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA. Para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica. </p>
+<p> Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA. Para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica. (Back-End | Avançado) </p>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Spring Framework" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -10,8 +10,6 @@
  <img align="center" alt="Git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img align="center" alt="PostgreSQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
-
-Back-End | Avançado
 
 ## 🧩 Pré-requistos
  
