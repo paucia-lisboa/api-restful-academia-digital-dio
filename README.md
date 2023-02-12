@@ -35,7 +35,7 @@
 
 ##
 
-<p>Projeto prático: "Conhecendo Spring Data JPA na prática com Java", desenvolvido durante o Bootcamp Spring Framework Experience (Modulo II - Principais Projetos Spring Framework), fornecido pela [**DIO**](https://www.dio.me/).</p>
+Projeto prático: "Conhecendo Spring Data JPA na prática com Java", desenvolvido durante o Bootcamp Spring Framework Experience (Modulo II - Principais Projetos Spring Framework), fornecido pela [**DIO**](https://www.dio.me/).
 
 ##
 
